@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/ruster/Documents/cw721/target/rls/debug/build/typenum-1eda4d1c33189197/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/ruster/Documents/cw721/target/rls/debug/build/typenum-1eda4d1c33189197/out/op.rs

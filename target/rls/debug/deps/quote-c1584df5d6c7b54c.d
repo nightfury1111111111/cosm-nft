@@ -1,0 +1,13 @@
+/home/ruster/Documents/cw721/target/rls/debug/deps/quote-c1584df5d6c7b54c.rmeta: /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/lib.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/ext.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/format.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/ident_fragment.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/to_tokens.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/runtime.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/spanned.rs
+
+/home/ruster/Documents/cw721/target/rls/debug/deps/libquote-c1584df5d6c7b54c.rlib: /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/lib.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/ext.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/format.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/ident_fragment.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/to_tokens.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/runtime.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/spanned.rs
+
+/home/ruster/Documents/cw721/target/rls/debug/deps/quote-c1584df5d6c7b54c.d: /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/lib.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/ext.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/format.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/ident_fragment.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/to_tokens.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/runtime.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/spanned.rs
+
+/home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/lib.rs:
+/home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/ext.rs:
+/home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/format.rs:
+/home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/ident_fragment.rs:
+/home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/to_tokens.rs:
+/home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/runtime.rs:
+/home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/spanned.rs:
